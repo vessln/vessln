@@ -1,8 +1,6 @@
 <h1>
-  Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi, I'm Vesi :wave:
 </h1>
-
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif"/>
@@ -12,9 +10,13 @@
 
 ---
 
-### :woman_technologist: About Me :
+###   About Me :
 
-- SoftUni student.
+:technologist: SoftUni student
 
-- I’m currently learning Python.
+🐍 Learning Python
+
+:woman_student: Chemist engineer technologist
+
+---
 
