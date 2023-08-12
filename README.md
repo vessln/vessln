@@ -20,7 +20,7 @@
 
 ---
 
-🔧 ###   Languages and Tools I use:
+###   Languages and Tools I use:
   ![image](https://github.com/vessln/vessln/assets/122992086/78b4c302-14a2-439f-bbda-a95840caf986)   ![image](https://github.com/vessln/vessln/assets/122992086/ed1d2241-58a3-42be-a999-869566baa6cd)  ![image](https://github.com/vessln/vessln/assets/122992086/9d94780d-8acb-448e-910c-9844b39ed434)
 
 
