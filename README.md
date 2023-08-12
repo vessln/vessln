@@ -21,11 +21,13 @@
 ---
 
 ###   Languages and Tools I use:
- ![image](https://github.com/vessln/vessln/assets/122992086/78b4c302-14a2-439f-bbda-a95840caf986)   ![image](https://github.com/vessln/vessln/assets/122992086/ed1d2241-58a3-42be-a999-869566baa6cd)  ![image](https://github.com/vessln/vessln/assets/122992086/eabf67c0-c8c3-4d73-aec3-a47e6b141a83)
+
+ ![image](https://github.com/vessln/vessln/assets/122992086/78b4c302-14a2-439f-bbda-a95840caf986)   ![image](https://github.com/vessln/vessln/assets/122992086/ed1d2241-58a3-42be-a999-869566baa6cd)   ![image](https://github.com/vessln/vessln/assets/122992086/eabf67c0-c8c3-4d73-aec3-a47e6b141a83)
 
 ---
 
 ###   Connect with me:
+
 ✉️  vesi.serafimova@gmail.com
  
 
