@@ -10,7 +10,7 @@
 
 ---
 
-###   About Me:
+###   About me:
 
 📚  I'm currently learning software engineering in Softuni.
 
