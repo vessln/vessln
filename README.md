@@ -14,7 +14,7 @@
 
 📚  I'm currently learning software engineering in Softuni.
 
-:technologist:  Python Basics✅ Python Fundamentals✅ Python Advanced✅ Python OOP✅ PostgreSQL🕓
+:technologist:  Python Basics✅ Python Fundamentals✅ Python Advanced✅ Python OOP✅ PostgreSQL✅ Python ORM🕓
 
 :woman_student:  I'm chemist engineer technologist
 
