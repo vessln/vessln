@@ -33,11 +33,11 @@
 
 ###   Contact:
 
-✉️  vesi.serafimova@gmail.com
+✉️   vesi.serafimova@gmail.com
 
 ---
 
 ###   My stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vessln&theme=ocean-gradient&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<div id="header" align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vessln&theme=ocean-gradient&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
