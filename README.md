@@ -16,7 +16,7 @@
 
 :technologist:  Python Basics✅ Python Fundamentals✅ Python Advanced✅ Python OOP✅ PostgreSQL✅ Python ORM🕓
 
-:woman_student:  I'm chemist engineer technologist
+:woman_student:  I have a master's degree in Chemical Engineering.
 
 ---
 
