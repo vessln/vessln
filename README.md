@@ -7,14 +7,14 @@
 </div>
 
 
-
 ---
 
 ###   About me:
 
+
 📚  I'm currently learning software engineering in Softuni.
 
-:technologist:  Python Basics✅ Python Fundamentals✅ Python Advanced✅ Python OOP✅ PostgreSQL✅ Django ORM ✅
+:technologist:  [Python Advanced](https://softuni.bg/certificates/certificates/converttoimage/173776?code=0fb575c7) ✅ [Python OOP](https://softuni.bg/certificates/certificates/converttoimage/180825?code=58d2d1d2) ✅ [PostgreSQL](https://softuni.bg/certificates/certificates/converttoimage/185980?code=d2dbcfe7) ✅ [Django ORM](https://softuni.bg/certificates/certificates/converttoimage/193785?code=d77e5fb6) 
 
 :test_tube:  I have a master's degree in Chemical Engineering.
 
