@@ -39,4 +39,6 @@
 
 ###   My stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vessln)](https://git.io/streak-stats)
+<div>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vessln&theme=github-dark-blue&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=522" alt="GitHub Streak" /></a>
+</div>
