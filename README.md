@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src=""/>
+  <img src=1705934535361.jpg width="800"/>
 </div>
 
 
@@ -42,6 +42,6 @@
 
 ###   My stats:
 
-<div>
+<div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vessln&theme=github-dark-blue&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=522" alt="GitHub Streak" /></a>
 </div>
