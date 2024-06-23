@@ -14,7 +14,22 @@
 
 📚   I'm Python enthusiast, passionate about innovation and challenging tasks!
 
-👩‍💻 Python Web: [Programming Fundamentals with Python](https://softuni.bg/certificates/certificates/converttoimage/167183?code=4bfaf8a7) ✅ [Python Advanced](https://softuni.bg/certificates/certificates/converttoimage/173776?code=0fb575c7) ✅ [Python OOP](https://softuni.bg/certificates/certificates/converttoimage/180825?code=58d2d1d2) ✅ [PostgreSQL](https://softuni.bg/certificates/certificates/converttoimage/185980?code=d2dbcfe7) ✅ [Python ORM](https://softuni.bg/certificates/certificates/converttoimage/193785?code=d77e5fb6) ✅ [Django Basics](https://softuni.bg/certificates/certificates/converttoimage/207393?code=fc99f6b6) ✅ [Django Advanced](https://softuni.bg/certificates/certificates/converttoimage/212684?code=bb4b518c) ✅
+👩‍💻 Python Web: 
+
+[Programming Fundamentals with Python](https://softuni.bg/certificates/certificates/converttoimage/167183?code=4bfaf8a7) ✅ 
+
+[Python Advanced](https://softuni.bg/certificates/certificates/converttoimage/173776?code=0fb575c7) ✅
+
+[Python OOP](https://softuni.bg/certificates/certificates/converttoimage/180825?code=58d2d1d2) ✅
+
+[PostgreSQL](https://softuni.bg/certificates/certificates/converttoimage/185980?code=d2dbcfe7) ✅
+
+[Python ORM](https://softuni.bg/certificates/certificates/converttoimage/193785?code=d77e5fb6) ✅
+
+[Django Basics](https://softuni.bg/certificates/certificates/converttoimage/207393?code=fc99f6b6) ✅
+
+[Django Advanced](https://softuni.bg/certificates/certificates/converttoimage/212684?code=bb4b518c) ✅ My [app](https://github.com/vessln/Cosmetics_store) is in the top 3 best projects for the Django Advanced course.
+
 
 
 :test_tube:  I have a master's degree in Chemical Engineering. Average grade 6.00 / 6.00.  [Certificate](https://raw.githubusercontent.com/vessln/vessln/main/prize%20for%20excellent%20GPA.jpg)
