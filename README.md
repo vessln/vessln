@@ -12,7 +12,7 @@
 ##   About me:
 
 
-📚 I'm Python enthusiast, passionate about innovation and challenging tasks!
+📚 I'm Python enthusiast, passionate about innovation and challenging tasks! I have interests in AI and ML.
 
 ### 👩‍💻 Python Web: 
 
