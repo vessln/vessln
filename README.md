@@ -32,7 +32,8 @@
 
 ### :robot: Artificial Intelligence:
 * [Math concepts for developers](https://softuni.bg/certificates/certificates/converttoimage/218661?code=d04f872f) ✅
-* Data Science ✅
+* [Data Science](https://softuni.bg/certificates/certificates/converttoimage/225598?code=bb95465f) ✅
+* Mashine Learning :soon:
 <br/>
 
 :test_tube:  I have a master's degree in Chemical Engineering. Average grade 6.00 / 6.00.  [Certificate](https://raw.githubusercontent.com/vessln/vessln/main/prize%20for%20excellent%20GPA.jpg)
