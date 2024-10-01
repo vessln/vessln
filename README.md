@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src=1705934535361.jpg width="500"/>
+  <img src=1705934535361.jpg width="450"/>
 </div>
 
 
@@ -12,7 +12,7 @@
 ##   About me:
 
 
-📚 I'm Python enthusiast, passionate about innovation and challenging tasks! I have interests in AI and ML.
+📚 I'm Python enthusiast, passionate about innovation and challenging tasks! I have interests in Data science and ML.
 
 ### 👩‍💻 Python Web: 
 
