@@ -56,7 +56,8 @@
   <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg" alt="Numpy" title="Numpy" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="ScikitLearn" title="ScikitLearn" width="60" height="60"/>
 </div>
 
 ---
