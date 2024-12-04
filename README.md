@@ -12,7 +12,7 @@
 ##   About me:
 
 
-📚 I'm Python enthusiast, passionate about innovation and challenging tasks! I have interests in Data science and ML.
+📚 I'm Python enthusiast, passionate about innovation and challenging tasks! I have interests in data analytics, data science and ML.
 
 ### 👩‍💻 Python Web: 
 
@@ -31,9 +31,10 @@
 * [Django Advanced](https://softuni.bg/certificates/certificates/converttoimage/212684?code=bb4b518c) ✅ My [app](https://github.com/vessln/Cosmetics_store) is in the top 3 best projects for the Django Advanced course :trophy:
 
 ### :robot: Artificial Intelligence:
-* [Math concepts for developers](https://softuni.bg/certificates/certificates/converttoimage/218661?code=d04f872f) ✅
-* [Data Science](https://softuni.bg/certificates/certificates/converttoimage/225598?code=bb95465f) ✅
-* Machine Learning :soon:
+* [Math concepts for developers](https://softuni.bg/certificates/details/218661/d04f872f) ✅
+* [Data Science](https://softuni.bg/Certificates/Details/225598/bb95465f) ✅
+* [Machine Learning](https://softuni.bg/certificates/details/230523/5ca2dfab) ✅
+* Deep Learning :soon:
 <br/>
 
 :test_tube:  I have a master's degree in Chemical Engineering. Average grade 6.00 / 6.00.  [Certificate](https://raw.githubusercontent.com/vessln/vessln/main/prize%20for%20excellent%20GPA.jpg)
