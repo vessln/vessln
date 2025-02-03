@@ -34,7 +34,6 @@
 * [Math concepts for developers](https://softuni.bg/certificates/details/218661/d04f872f) ✅
 * [Data Science](https://softuni.bg/Certificates/Details/225598/bb95465f) ✅
 * [Machine Learning](https://softuni.bg/certificates/details/230523/5ca2dfab) ✅
-* Deep Learning :soon:
 <br/>
 
 :test_tube:  I have a master's degree in Chemical Engineering. Average grade 6.00 / 6.00.  [Certificate](https://raw.githubusercontent.com/vessln/vessln/main/prize%20for%20excellent%20GPA.jpg)
