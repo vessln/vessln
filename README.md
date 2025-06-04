@@ -12,7 +12,7 @@
 ##   About me:
 
 
-📚 I'm Python enthusiast, passionate about innovation and challenging tasks! I have interests in data analytics and AI.
+📚 I'm Python enthusiast, passionate about innovation and challenging tasks! I have interests in backend development, data analytics and AI.
 
 ### 👩‍💻 Python Web: 
 
@@ -29,6 +29,8 @@
 * [Django Basics](https://softuni.bg/certificates/certificates/converttoimage/207393?code=fc99f6b6) ✅
 
 * [Django Advanced](https://softuni.bg/certificates/certificates/converttoimage/212684?code=bb4b518c) ✅ My [app](https://github.com/vessln/Cosmetics_store) is in the top 3 best projects for the Django Advanced course :trophy:
+
+* JS Front-end (in progress) 
 
 ### :robot: Artificial Intelligence:
 * [Math concepts for developers](https://softuni.bg/certificates/details/218661/d04f872f) ✅
