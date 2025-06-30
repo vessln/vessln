@@ -30,7 +30,7 @@
 
 * [Django Advanced](https://softuni.bg/certificates/certificates/converttoimage/212684?code=bb4b518c) ✅ My [app](https://github.com/vessln/Cosmetics_store) is in the top 3 best projects for the Django Advanced course :trophy:
 
-* [HTML & CSS](https://softuni.bg/certificates/details/245778/267e06e7)
+* [HTML & CSS](https://softuni.bg/certificates/details/245778/267e06e7) ✅
   
 * JS (in progress) 
 
