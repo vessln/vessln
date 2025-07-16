@@ -62,5 +62,5 @@
 ###   Contact:
 
 ✉️   vesi.serafimova@gmail.com     
-💼   linkedin.com/in/veselina-serafimova
+💼   [LinkedIn](https://www.linkedin.com/in/veselina-serafimova/)
 
