@@ -2,17 +2,12 @@
   Hi, I'm Vesi :wave:
 </h1>
 
-<div align="center">
-  <img src=1705934535361.jpg width="450"/>
-</div>
-
-
 ---
 
 ##   About me:
 
 
-📚 I'm Python enthusiast, passionate about innovation and challenging tasks! I have interests in backend development, data analytics and AI.
+📚 I'm Python enthusiast, passionate about innovative technologies and challenging tasks! I have interests in Backend Development and AI !
 
 ### 👩‍💻 Python Web: 
 
