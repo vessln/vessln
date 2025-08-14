@@ -27,12 +27,13 @@
 
 * [HTML & CSS](https://softuni.bg/certificates/details/245778/267e06e7) ✅
   
-* JS (in progress) 
+* [JavaScript](https://softuni.bg/certificates/details/248666/796732ff) ✅
 
 ### :robot: Artificial Intelligence:
 * [Math concepts for developers](https://softuni.bg/certificates/details/218661/d04f872f) ✅
 * [Data Science](https://softuni.bg/Certificates/Details/225598/bb95465f) ✅
 * [Machine Learning](https://softuni.bg/certificates/details/230523/5ca2dfab) ✅
+* Deep Learning (in progress)
 <br/>
 
 ---
