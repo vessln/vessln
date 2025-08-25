@@ -7,11 +7,11 @@
 ##   About me:
 
 
-📚 I'm Python enthusiast, passionate about innovative technologies and challenging tasks! I have interests in Backend Development and AI !
+📚 I'm Junior Python developer, passionate about innovative technologies and challenging tasks! I have interests in Web Development and AI !
 
-### 👩‍💻 Python Web: 
+### 👩‍💻 Web Development: 
 
-* [Programming Fundamentals with Python](https://softuni.bg/certificates/certificates/converttoimage/167183?code=4bfaf8a7) ✅ 
+* [Python Fundamentals](https://softuni.bg/certificates/certificates/converttoimage/167183?code=4bfaf8a7) ✅ 
 
 * [Python Advanced](https://softuni.bg/certificates/certificates/converttoimage/173776?code=0fb575c7) ✅
 
@@ -29,7 +29,7 @@
   
 * [JavaScript](https://softuni.bg/certificates/details/248666/796732ff) ✅
 
-### :robot: Artificial Intelligence:
+### :robot: AI:
 * [Math concepts for developers](https://softuni.bg/certificates/details/218661/d04f872f) ✅
 * [Data Science](https://softuni.bg/Certificates/Details/225598/bb95465f) ✅
 * [Machine Learning](https://softuni.bg/certificates/details/230523/5ca2dfab) ✅
