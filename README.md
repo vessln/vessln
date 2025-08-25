@@ -1,5 +1,5 @@
 <h1>
-  Hi, I'm Vesi :wave:
+  Hello, I'm Veselina :wave:
 </h1>
 
 ---
