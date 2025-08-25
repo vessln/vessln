@@ -7,7 +7,7 @@
 ##   About me:
 
 
-📚 I'm Junior Python developer, passionate about innovative technologies and challenging tasks! I have interests in Web Development and AI !
+📚 I'm Junior Python developer, passionate about interesting and challenging tasks!
 
 ### 👩‍💻 Web Development: 
 
